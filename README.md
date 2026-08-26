@@ -1,6 +1,6 @@
 Just some warfare is a kitchen sink pack for warfare mods, it includes FPS shooter mods like TACZ, Point Blank and war mods, such as SBW, Warium and it's addon packs. Just some warfare also included lots of optimization mods example: Embeddium, Radium Reforged, FerriteCore, Entity Culling, Bad Optimization, Immediatly Fast, Alltheleaks etc, it's also included Qol mods like Apple skin, Jade, Carry on, Simple Voice Chat etc.
 
-The serverpack download:https://www.curseforge.com/minecraft/modpacks/just-some-warfare-server-pack.
+The download:https://www.curseforge.com/minecraft/modpacks/just-some-warfare.
 
 Recommended 8GB of ram for optimal performance and 6GB of ram for minimum.
 
